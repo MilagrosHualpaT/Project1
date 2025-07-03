@@ -110,11 +110,11 @@ Cada empleado puede estar activo en una sola sucursal a la vez.
 
 ⚠️ Identificar tipos de movimiento SALIDA y unir con CostoMovimiento para estimar impacto económico.
 
-
+Diagrama E/R:
 ![DIAGRAMA E-R_Deysi Milagros Hualpa Ticona](https://github.com/user-attachments/assets/03424658-6ac2-431b-bb86-225553add5e7)
-
+Diagrama Lógico:
 ![DIAGRAMA LOGICO_Deysi Milagros Hualpa Ticona](https://github.com/user-attachments/assets/3c2d4f32-c596-4218-bf73-2175708c9ee6)
-
+Diagrama Físico:
 ![DIAGRAMA FISICO_Deysi Milagros Hualpa Ticona](https://github.com/user-attachments/assets/f5eb0fef-5397-4b5e-abdf-7aaf7b7fa2d3)
 
 
