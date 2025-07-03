@@ -1,4 +1,5 @@
 Gestión Operativa y Financiera del Banco EurekaBank
+
 📌 Contexto: EurekaBank ha implementado un sistema bancario que registra las operaciones financieras, cuentas, clientes, empleados y sucursales. Actualmente, se busca aprovechar estos datos para obtener inteligencia de negocio que permita:
 
 Evaluar la eficiencia operativa.
@@ -100,6 +101,9 @@ Cada empleado puede estar activo en una sola sucursal a la vez.
 ¿Qué porcentaje de cuentas abiertas este año están en estado cancelado?
 
 📉 Comparar cuentas activas vs canceladas con fecha de creación dentro del año actual.
+
+![Uploading DIAGRAMA FISICO_Deysi Milagros Hualpa Ticona.png…]()
+
 
 ¿Cuáles son los tipos de movimientos que generan más cargos por moneda?
 
