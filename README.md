@@ -102,11 +102,14 @@ Cada empleado puede estar activo en una sola sucursal a la vez.
 
 📉 Comparar cuentas activas vs canceladas con fecha de creación dentro del año actual.
 
-![Uploading DIAGRAMA FISICO_Deysi Milagros Hualpa Ticona.png…]()
-
-
 ¿Cuáles son los tipos de movimientos que generan más cargos por moneda?
 
 ⚠️ Identificar tipos de movimiento SALIDA y unir con CostoMovimiento para estimar impacto económico.
 
-Diagrama E/R: DIAGRAMA E-R_Deysi Milagros Hualpa Ticona Diagrama Lógico: DIAGRAMA LOGICO_Deysi Milagros Hualpa Ticona Diagrama Físico: DIAGRAMA FISICO_Deysi Milagros Hualpa Ticona
+
+![DIAGRAMA E-R_Deysi Milagros Hualpa Ticona](https://github.com/user-attachments/assets/5afbc512-3983-4143-aea4-ec794d2bb52e)
+
+![DIAGRAMA LOGICO_Deysi Milagros Hualpa Ticona](https://github.com/user-attachments/assets/7c1ffdcc-145a-4dc0-aacd-81350d5ddacf)
+
+
+![DIAGRAMA FISICO_Deysi Milagros Hualpa Ticona](https://github.com/user-attachments/assets/37f7326e-d6fe-4cae-ba94-8a03daae6e82)
